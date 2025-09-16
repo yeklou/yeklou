@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+!--
 # 👋 Hi, I'm Yeklou!
 
 Welcome to my GitHub profile! I'm passionate about software development, data science, and artificial intelligence. Here you'll find my projects ranging from student information systems to machine learning experiments.
