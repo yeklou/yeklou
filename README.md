@@ -1,16 +1,54 @@
 ## Hi there 👋
 
 <!--
-**yeklou/yeklou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Yeklou!
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about software development, data science, and artificial intelligence. Here you'll find my projects ranging from student information systems to machine learning experiments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+## 🚀 About Me
+
+- 💻 I love coding and exploring new technologies.
+- 📊 Interested in data analysis, AI, and building practical applications.
+- 🌱 Currently learning advanced machine learning and statistical analysis.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yeklou) or through GitHub Issues.
+
+---
+
+## 🏆 Top Projects
+
+| Project | Description |
+|---------|-------------|
+| [Student-Information-System](https://github.com/yeklou/Student-Information-System) | A comprehensive system to manage student data efficiently. |
+| [Artificial-Intelligence](https://github.com/yeklou/Artificial-Intelligence) | My experiments and learning journeys with AI and ML algorithms. |
+| [Hate-Speech-Detection](https://github.com/yeklou/Hate-Speech-Detection) | Detecting hate speech using NLP and deep learning techniques. |
+| [Hypothesis Testing with Soccer Matches](https://github.com/yeklou/-Hypothesis-Testing-with-Men-and-Women-Soccer-Matches) | Statistical analysis and hypothesis testing on soccer match data. |
+| [Codespaces Jupyter](https://github.com/yeklou/codespaces-jupyter) | Jupyter Notebooks in Codespaces for interactive data exploration. |
+
+---
+
+## 📈 GitHub Stats
+
+![Yeklou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeklou&show_icons=true&theme=radical)
+
+---
+
+## 📚 Recent Activity
+
+- Learning Hands-on Fraud Analytics with AI & ML with Senior Quantitative Analytics Specialist at Wells Fargo.
+- Working on Generative AI and Sentiment Analysis project with Career Amend.
+- Working on innovative data science and AI projects.
+- Exploring statistical methods in sports analytics.
+- Building tools for education and student management.
+
+---
+
+## 🤝 Let's Connect!
+
+Feel free to check out my repositories, open issues, or contribute. I love collaborating and learning from the community!
+
+---
+
+*Thanks for visiting my profile! 🚀*
 -->
