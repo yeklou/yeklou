@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 - 💻 I love coding and exploring new technologies.
 - 📊 Interested in data analysis, AI, and building practical applications.
 - 🌱 Currently learning advanced machine learning and statistical analysis.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yeklou) or through GitHub Issues.
+- 📫 How to reach me: [https://www.linkedin.com/in/yawo-eklou] or through GitHub Issues.
 
 ---
 
