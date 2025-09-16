@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 ---
 
-## 📈 GitHub Stats
+## 📈 GitHub Stats 2025
 
 ![Yeklou's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeklou&show_icons=true&theme=radical)
 
