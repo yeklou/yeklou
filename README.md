@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 !--
-# 👋 Hi, I'm Yeklou!
+# 👋 Hi, I'm Yawo eklou!
 
 Welcome to my GitHub profile! I'm passionate about software development, data science, and artificial intelligence. Here you'll find my projects ranging from student information systems to machine learning experiments.
 
