@@ -20,8 +20,8 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 
 | Project | Description |
 |---------|-------------|
-| [Student-Information-System](https://github.com/yeklou/Student-Information-System) | A comprehensive system to manage student data efficiently. |
-| [Artificial-Intelligence](https://github.com/yeklou/Artificial-Intelligence) | My experiments and learning journeys with AI and ML algorithms. |
+| [Student-Information-System](https://github.com/yeklou/Student-Information-System) | A comprehensive system to manage student data efficiently. |Email yeklou@charlotte.edu to request access
+| [Artificial-Intelligence](https://github.com/yeklou/Artificial-Intelligence) | My experiments and learning journeys with AI and ML algorithms. ||Email yeklou@charlotte.edu to request access
 | [Hate-Speech-Detection](https://github.com/yeklou/Hate-Speech-Detection) | Detecting hate speech using NLP and deep learning techniques. |
 | [Hypothesis Testing with Soccer Matches](https://github.com/yeklou/-Hypothesis-Testing-with-Men-and-Women-Soccer-Matches) | Statistical analysis and hypothesis testing on soccer match data. |
 | [Codespaces Jupyter](https://github.com/yeklou/codespaces-jupyter) | Jupyter Notebooks in Codespaces for interactive data exploration. |
@@ -47,6 +47,7 @@ Welcome to my GitHub profile! I'm passionate about software development, data sc
 ## 🤝 Let's Connect!
 
 Feel free to check out my repositories, open issues, or contribute. I love collaborating and learning from the community!
+Email: yeklou@charlotte.edu
 
 ---
 
